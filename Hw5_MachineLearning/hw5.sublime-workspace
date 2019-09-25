@@ -1,0 +1,1283 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"prob_labelA"
+			],
+			[
+				"nu",
+				"num_of_examples"
+			],
+			[
+				"max",
+				"max_info_gain"
+			],
+			[
+				"num",
+				"numD"
+			],
+			[
+				"te",
+				"test_data"
+			],
+			[
+				"pre",
+				"predictD"
+			],
+			[
+				"is",
+				"isinstance"
+			],
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"class",
+				"classification"
+			],
+			[
+				"pare",
+				"parent_examples"
+			],
+			[
+				"new",
+				"new_test_data"
+			],
+			[
+				"print",
+				"print_result"
+			],
+			[
+				"p",
+				"party"
+			],
+			[
+				"ch",
+				"chanceofD"
+			],
+			[
+				"cha",
+				"chanceofR"
+			],
+			[
+				"chan",
+				"chanceofD"
+			],
+			[
+				"vote",
+				"vote_answer"
+			],
+			[
+				"vo",
+				"vote_answer"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"par",
+				"party"
+			],
+			[
+				"get",
+				"getProbability"
+			],
+			[
+				"l",
+				"labels"
+			],
+			[
+				"sub",
+				"subtree"
+			],
+			[
+				"pr",
+				"prob"
+			],
+			[
+				"prin",
+				"print_tree"
+			],
+			[
+				"uni",
+				"unique_values"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"cong",
+				"congress_dec"
+			],
+			[
+				"congr",
+				"congress_train"
+			],
+			[
+				"no",
+				"normalD"
+			],
+			[
+				"to",
+				"totalnum"
+			],
+			[
+				"dict_",
+				"dict_tree"
+			],
+			[
+				"dic",
+				"dict_tree"
+			],
+			[
+				"di",
+				"dict_str"
+			],
+			[
+				"su",
+				"subtree"
+			],
+			[
+				"prit",
+				"print"
+			],
+			[
+				"at",
+				"attr"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"name",
+				"name_attr"
+			],
+			[
+				"De",
+				"DecisionTree"
+			],
+			[
+				"add",
+				"add_subtree"
+			],
+			[
+				"s",
+				"subtree"
+			],
+			[
+				"a",
+				"attribute"
+			],
+			[
+				"arg",
+				"argmax"
+			],
+			[
+				"en",
+				"entropy_Goal"
+			],
+			[
+				"e",
+				"examples"
+			],
+			[
+				"ga",
+				"gained_information"
+			],
+			[
+				"n",
+				"num_of_examples"
+			],
+			[
+				"in",
+				"information"
+			],
+			[
+				"ent",
+				"entropy_Goal"
+			],
+			[
+				"possible",
+				"possibleValues"
+			],
+			[
+				"lab",
+				"label_A"
+			],
+			[
+				"ar",
+				"attributes"
+			],
+			[
+				"P",
+				"P_WillWait_No"
+			],
+			[
+				"train",
+				"trainedR"
+			],
+			[
+				"R",
+				"Republican"
+			],
+			[
+				"norma",
+				"normalD"
+			],
+			[
+				"vali",
+				"validvoteR"
+			],
+			[
+				"val",
+				"validvoteD"
+			],
+			[
+				"va",
+				"validvoteR"
+			],
+			[
+				"tra",
+				"trainedR"
+			],
+			[
+				"predi",
+				"predict_data"
+			],
+			[
+				"table",
+				"tableD"
+			],
+			[
+				"ta",
+				"tableR"
+			],
+			[
+				"tabl",
+				"tableD"
+			],
+			[
+				"st",
+				"strD"
+			],
+			[
+				"ma",
+				"marginalCount"
+			],
+			[
+				"str",
+				"strY"
+			],
+			[
+				"de",
+				"democrat"
+			],
+			[
+				"count",
+				"countParty"
+			],
+			[
+				"read",
+				"read_data"
+			],
+			[
+				"csv",
+				"csv_reader"
+			],
+			[
+				"cs",
+				"csv_reader"
+			],
+			[
+				"c",
+				"csv_reader"
+			],
+			[
+				"next",
+				"next_address"
+			],
+			[
+				"bl",
+				"block_size"
+			],
+			[
+				"curr",
+				"curr_address"
+			],
+			[
+				"free_",
+				"free_block"
+			],
+			[
+				"free",
+				"freeing_node"
+			],
+			[
+				"f",
+				"freeing_node"
+			],
+			[
+				"all",
+				"allocated_header"
+			],
+			[
+				"ori",
+				"original_next"
+			],
+			[
+				"or",
+				"original_free_block"
+			],
+			[
+				"head",
+				"header_t"
+			],
+			[
+				"ac",
+				"actual_size"
+			],
+			[
+				"node",
+				"node_t"
+			],
+			[
+				"pthre",
+				"pthread_mutex_unlock"
+			],
+			[
+				"pthread_mu",
+				"pthread_mutex_unlock"
+			],
+			[
+				"pth",
+				"pthread_mutex_lock"
+			],
+			[
+				"pthr",
+				"pthread_mutex_unlock"
+			],
+			[
+				"con",
+				"consumedItems"
+			],
+			[
+				"pd",
+				"pd_cnt"
+			],
+			[
+				"pt",
+				"pthread_exit"
+			],
+			[
+				"remo",
+				"removedItem"
+			],
+			[
+				"buffe",
+				"buffer_last"
+			],
+			[
+				"crea",
+				"createdItems"
+			],
+			[
+				"bu",
+				"buffer_cnt"
+			],
+			[
+				"create",
+				"createdItems"
+			],
+			[
+				"buff",
+				"buffer_cnt"
+			],
+			[
+				"PTHREAD",
+				"PTHREAD_MUTEX_INITIALIZER"
+			],
+			[
+				"csle",
+				"csleepTime"
+			],
+			[
+				"csl",
+				"csleepTime"
+			],
+			[
+				"ps",
+				"psleep"
+			],
+			[
+				"psl",
+				"psleepTime"
+			],
+			[
+				"rea",
+				"reached"
+			],
+			[
+				"thre",
+				"threadID"
+			],
+			[
+				"the",
+				"threadID"
+			],
+			[
+				"rem",
+				"removedItem"
+			],
+			[
+				"ra",
+				"rand_num"
+			],
+			[
+				"cre",
+				"createdItems"
+			],
+			[
+				"buffer",
+				"buffer_full"
+			],
+			[
+				"now",
+				"nowTime"
+			],
+			[
+				"be",
+				"beginTime"
+			],
+			[
+				"th",
+				"thread_cnt"
+			],
+			[
+				"buf",
+				"buffer_last"
+			],
+			[
+				"B",
+				"BoundedBuffer"
+			],
+			[
+				"im",
+				"items"
+			],
+			[
+				"pthread_cond",
+				"pthread_cond_signal"
+			],
+			[
+				"pthread_",
+				"pthread_mutex_unlock"
+			],
+			[
+				"pthread",
+				"pthread_create"
+			],
+			[
+				"pthread_m",
+				"pthread_mutex_lock"
+			],
+			[
+				"my",
+				"myarg_t"
+			],
+			[
+				"last",
+				"lastCompletion"
+			],
+			[
+				"comp",
+				"completion"
+			],
+			[
+				"time",
+				"timeAccumulated"
+			],
+			[
+				"com",
+				"complete"
+			],
+			[
+				"du",
+				"duraQ"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "congress_train.csv",
+			"settings":
+			{
+				"buffer_size": 66084,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "congress_test.csv",
+			"settings":
+			{
+				"buffer_size": 15682,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "congress_dec.py",
+			"settings":
+			{
+				"buffer_size": 12682,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "readme.txt",
+			"settings":
+			{
+				"buffer_size": 81,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "congress_dec_backup2.py",
+			"settings":
+			{
+				"buffer_size": 9064,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "congress_nbc.py",
+			"settings":
+			{
+				"buffer_size": 6197,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "restaurant.py",
+			"settings":
+			{
+				"buffer_size": 8035,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "restaurant_train.csv",
+			"settings":
+			{
+				"buffer_size": 523,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "willplay.py",
+			"settings":
+			{
+				"buffer_size": 6698,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "testing.py",
+			"settings":
+			{
+				"buffer_size": 1336,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"save as",
+				"Project: Save As"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"rena",
+				"Rename File"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/HashiCorp/PROGENV/workspace/CS383/Hw5_MachineLearning/strippedTraining.csv",
+		"/C/Users/natha/Downloads/echo-server-reference/echo-server-starter/client.js",
+		"/C/Users/natha/Downloads/echo-server-reference/echo-server-starter/client.py",
+		"/C/Users/natha/Downloads/echo-server-reference/echo-server-starter/echo-server.c",
+		"/C/HashiCorp/PROGENV/workspace/CS377/p5-student/src/create_fs.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/p5-student/src/fs.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/p5-student/src/fs.h",
+		"/C/HashiCorp/PROGENV/workspace/CS377/p5-student/src/main.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS383/Hw5_MachineLearning/congress_test.csv",
+		"/C/HashiCorp/PROGENV/workspace/CS383/Hw5_MachineLearning/restaurant.py",
+		"/C/HashiCorp/PROGENV/workspace/CS383/Hw5_MachineLearning/restaurant_train02.csv",
+		"/C/HashiCorp/PROGENV/workspace/CS383/Hw5_MachineLearning/restaurant_train.csv",
+		"/C/HashiCorp/PROGENV/workspace/CS383/Hw5_MachineLearning/willplay_train.csv",
+		"/C/HashiCorp/PROGENV/workspace/CS383/Hw5_MachineLearning/willplay.py",
+		"/C/HashiCorp/PROGENV/workspace/CS383/Hw5_MachineLearning/decision_tree_example.py",
+		"/C/HashiCorp/PROGENV/workspace/CS383/Hw5_MachineLearning/skeleton.py",
+		"/C/HashiCorp/PROGENV/workspace/CS383/Hw5_MachineLearning/test02.csv",
+		"/C/HashiCorp/PROGENV/workspace/CS383/Hw5_MachineLearning/train02.csv",
+		"/C/HashiCorp/PROGENV/workspace/CS383/Hw5_MachineLearning/train01.csv",
+		"/C/HashiCorp/PROGENV/workspace/CS383/Hw5_MachineLearning/congress_train.csv",
+		"/C/HashiCorp/PROGENV/workspace/CS383/Hw5_MachineLearning/todo.txt",
+		"/C/HashiCorp/PROGENV/workspace/CS383/Hw3_MCMC/commute.py",
+		"/C/HashiCorp/PROGENV/workspace/CS383/Hw1_8Puzzle/readfile.py",
+		"/C/Users/natha/Downloads/p5-student/p5-student/src/fs.h",
+		"/C/Users/natha/Downloads/p5-student/p5-student/src/fs.cpp",
+		"/C/Users/natha/Downloads/p5-student/p5-student/src/create_fs.cpp",
+		"/C/Users/natha/Downloads/p5-student/p5-student/src/main.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab4-students/src/main.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab4-students/src/my_malloc.h",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab4-students/src/my_malloc.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab4-students/test/malloc_tests.cpp",
+		"/C/Users/natha/Downloads/hw04/hw04.py",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab4-students/test/malloc_tests_backup.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab4-students/src/malloc_tests.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/practice/doublepointer02.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/practice/doublepointer01.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab2-student/src/main.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab2-student/src/ProducerConsumer.h",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab2-student/src/ProducerConsumer.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab2-student/src/BoundedBuffer.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab2-student/src/BoundedBuffer.h",
+		"/C/HashiCorp/PROGENV/workspace/CS377/exam02/strcpy.c",
+		"/C/Users/natha/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/natha/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/HashiCorp/PROGENV/workspace/CS383/Hw2_Connect3/connect3.py",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab2-student/src_backup/ProducerConsumer.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab2-student/test/queue_tests.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/practice/lab2-student/src/ProducerConsumer.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/practice/lab2-student/src/main.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/practice/lab2-student/src/BoundedBuffer.h",
+		"/C/HashiCorp/PROGENV/workspace/CS377/practice/lab2-student/src/BoundedBuffer.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/practice/lab2-student/src/ProducerConsumer.h",
+		"/C/Users/natha/Downloads/6351912/src/wset.c",
+		"/C/Users/natha/Downloads/6351912/src/words.c",
+		"/C/Users/natha/Downloads/6351912/src/wordfreq-fast.c",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab2-student/practice/th01.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab2-student/practice/th03.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab2-student/practice/th04.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab2-student/practice/th05.c",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab2-student/practice/th06.c",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab2-student/practice/lock01.c",
+		"/C/HashiCorp/PROGENV/workspace/CS383/midterm_review.txt",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab2-student/practice/lock02.c",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab2-student/practice/th02.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab2-student/practice/cond01.c",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab2-student/practice/cond02.c",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab2-student/practice/prod_cons_02.c",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab2-student/practice/prod_cons_03.c",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab2-student/practice/prod_cons_04.c",
+		"/C/HashiCorp/PROGENV/workspace/CS383/Hw2_Connect3/readfile.py",
+		"/C/HashiCorp/PROGENV/workspace/CS383/Hw2_Connect3/problem.py",
+		"/C/HashiCorp/PROGENV/workspace/CS383/Hw2_Connect3/state17.txt",
+		"/C/HashiCorp/PROGENV/workspace/CS188/proj1-search-python3/util.py",
+		"/C/HashiCorp/PROGENV/workspace/CS188/proj1-search-python3/textDisplay.py",
+		"/C/HashiCorp/PROGENV/workspace/CS188/proj1-search-python3/testParser.py",
+		"/C/HashiCorp/PROGENV/workspace/CS188/proj1-search-python3/testClasses.py",
+		"/C/HashiCorp/PROGENV/workspace/CS188/proj1-search-python3/searchTestClasses.py",
+		"/C/HashiCorp/PROGENV/workspace/CS188/proj1-search-python3/searchAgents.py",
+		"/C/HashiCorp/PROGENV/workspace/CS188/proj1-search-python3/search.py",
+		"/C/HashiCorp/PROGENV/workspace/CS188/proj1-search-python3/projectParams.py",
+		"/C/HashiCorp/PROGENV/workspace/CS188/proj1-search-python3/pacmanAgents.py",
+		"/C/HashiCorp/PROGENV/workspace/CS188/proj1-search-python3/pacman.py",
+		"/C/HashiCorp/PROGENV/workspace/CS188/proj1-search-python3/layout.py",
+		"/C/HashiCorp/PROGENV/workspace/CS188/proj1-search-python3/keyboardAgents.py",
+		"/C/HashiCorp/PROGENV/workspace/CS188/proj1-search-python3/graphicsUtils.py",
+		"/C/HashiCorp/PROGENV/workspace/CS188/proj1-search-python3/graphicsDisplay.py",
+		"/C/HashiCorp/PROGENV/workspace/CS188/proj1-search-python3/grading.py",
+		"/C/HashiCorp/PROGENV/workspace/CS188/proj1-search-python3/ghostAgents.py",
+		"/C/HashiCorp/PROGENV/workspace/CS188/proj1-search-python3/game.py",
+		"/C/HashiCorp/PROGENV/workspace/CS188/proj1-search-python3/eightpuzzle.py",
+		"/C/HashiCorp/PROGENV/workspace/CS188/proj1-search-python3/autograder.py",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab1-student/src/tsh.h",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab1-student/src/main_tsh.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab0-student/src/inverter.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab1-student/src/tsh.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab1-student/workloads/workload_06.txt",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab1-student/workloads/workload_05.txt",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab1-student/workloads/workload_04.txt",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab1-student/workloads/workload_03.txt",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab1-student/workloads/workload_02.txt",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab1-student/workloads/workload_01.txt",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab1-student/test/scheduling_tests.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab1-student/src/main_scheduling.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab1-student/src/scheduling.h",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab1-student/src/scheduling.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab1-student/workloads/workload_07.txt",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab1-student/test/shell_tests.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab1-student/practice/pq03.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab1-student/practice/pq2.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab1-student/practice/pq1.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/exam01/fork.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/exam01/fork01.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab1-student/practice/parse02.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab1-student/practice/parse07.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab1-student/practice/parse04.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS377/lab1-student/practice/parse01.cpp",
+		"/C/HashiCorp/PROGENV/workspace/CS383/Hw1_8Puzzle/file_test.py",
+		"/C/HashiCorp/PROGENV/workspace/lab0-student/src/main.cpp",
+		"/C/HashiCorp/PROGENV/workspace/lab0-student/src/inverter.h",
+		"/C/HashiCorp/PROGENV/workspace/lab0-student/project1-pseudo.txt",
+		"/C/Users/natha/Downloads/cs188/proj1-search-python3/search.py",
+		"/C/Users/natha/Downloads/cs188/proj1-search-python3/searchAgents.py",
+		"/C/HashiCorp/PROGENV/workspace/lab0-student/src/inverter.cpp",
+		"/C/Users/natha/Downloads/hw04/ok",
+		"/C/Users/natha/Downloads/search/proj1-search-python3/pacman.py",
+		"/C/HashiCorp/PROGENV/inverter-submission/src/main.cpp",
+		"/C/HashiCorp/PROGENV/inverter-submission/src/inverter.h",
+		"/C/HashiCorp/PROGENV/inverted_index_dpark.cpp"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"count_tree",
+			"getProbability",
+			"training_data",
+			"re",
+			"Re",
+			"re",
+			"collections",
+			"wait",
+			"entropy_Goal",
+			"chanceofR",
+			"marginalCount",
+			"new_test_data",
+			"dD",
+			"dd",
+			"dD",
+			"dd",
+			"predict",
+			"train",
+			"predict",
+			"answer",
+			"chaneofD",
+			"vote_num_node",
+			"predict",
+			"vote_num",
+			"vote",
+			"predict",
+			"calculate_probability",
+			"getProbability",
+			"test_data",
+			"training_data",
+			"print_tree",
+			"num",
+			"prob_Yea",
+			"getProbability",
+			"Importance",
+			"calculate",
+			"add_subtree",
+			"Importance",
+			"entropy_Goal",
+			"entropy_GoalAttribute",
+			"numYeaNay",
+			"numYea",
+			"self.subtree[attr]",
+			"1",
+			"French",
+			"0-",
+			"false",
+			"true",
+			"total",
+			"entropy_Goal",
+			"[s]",
+			"d",
+			"Yes",
+			"entropy",
+			"value",
+			"attributes",
+			"–",
+			"-",
+			" ",
+			"isD",
+			"nomarlR",
+			"isD",
+			"isR",
+			"R",
+			"predict_data",
+			"***************",
+			"R",
+			",Democrat",
+			",Republican",
+			"data",
+			"tableD",
+			"tableR",
+			"0_D",
+			"strN",
+			"strY",
+			"strR",
+			"strD",
+			"democrat",
+			"Democrat",
+			"democrat",
+			"data_list",
+			"next_address",
+			"curr_address",
+			"next_address",
+			"curr_address",
+			"assert",
+			"head_t",
+			"head",
+			"std::cout << \"*p: \" << *p << \"\\tp: \" << p << \"\\taddr: \" << &p << std::endl;",
+			"std::cout << \"*p: \" << *p << \"p: \" << p << \"\\taddr: \" << &p << std::endl;",
+			"std::cout << \"p: \" << p << \"\\taddr: \" << &p << std::endl;",
+			"cs_cnt"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "congress_train.csv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 66084,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "congress_test.csv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15682,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								168,
+								168
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "congress_dec.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12682,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1054,
+								1054
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1214.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "readme.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 81,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "congress_dec_backup2.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9064,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1248.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "congress_nbc.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1615,
+								1615
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 989.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "restaurant.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8035,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7863,
+								7863
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3792.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "restaurant_train.csv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								348,
+								348
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "willplay.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "testing.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								134,
+								134
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hw5.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
